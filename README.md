@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DesmondHudal
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, and REACT.JS
-- 💞️ I’m looking to collaborate on HTML, CSS, JAVASCRIPT, and REACT.JS
+- 👀 I’m interested in Software Development
+- 💞️ I am currently learning Backend Development
+- 💞️ I’m looking to collaborate on .. GitHub
 - 📫 You can reach me on desmondudah5@gmail.com
 
 <!---
